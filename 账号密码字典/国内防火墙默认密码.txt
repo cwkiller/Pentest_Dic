@@ -1,0 +1,78 @@
+天融信防火墙
+用户名:superman
+密码:talent
+
+天融信的vpn test/123456
+
+天融信防火墙
+用户名:superman
+密码:talent！23
+用户名:admin 密码:leadsec@7766、administrator、bane@7766
+
+联想网御防火墙，
+用户名:admin
+密码:leadsec@7766、administrator、bane@7766
+
+深信服防火墙
+用户名：admin
+密码：sangfor  admin
+
+启明星辰    
+用户名：admin
+密码：bane@7766
+用户名：admin
+密码：admin@123
+
+juniper
+用户名:netscreen
+密码:netscreen
+
+Cisco
+用户名:admin
+密码:cisco
+
+Huawei
+用户名:admin
+密码:Admin@123 eudemon
+账号 ftpuser  密码 ftppwd
+账号 telnetuser   密码 telnetpwd
+账号 eudemon  密码 eudemon
+
+
+H3C
+用户名:admin
+密码:admin   h3capadmin   空密码
+
+绿盟IPS
+用户名: weboper
+密码: weboper
+
+绿盟rsas
+用户名  admin reporter auditor
+密码 nsfocus
+
+深信服
+账号 admin
+密码 sangfor@123
+
+网神防火墙GE1口
+用户名：admin
+密码：firewall
+
+迪普
+默认的用户名和密码（admin/admin_default)
+
+山石
+192.168.1.1
+默认的管理账号为hillstone，密码为hillstone
+
+齐治
+shterm密码一样
+
+网神防火墙
+用户名：admin 密码：firewall
+
+华为VPN：
+账号：root 密码：mduadmin
+
+安恒的明御防火墙 admin/adminadmin
